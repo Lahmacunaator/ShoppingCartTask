@@ -1,0 +1,7 @@
+C:\Users\barsc\Documents\Projects\GamesGlobalTestTask\ShoppingCartTask\CartApi\CartApi\obj\Debug\net8.0\CartApi.csproj.AssemblyReference.cache
+C:\Users\barsc\Documents\Projects\GamesGlobalTestTask\ShoppingCartTask\CartApi\CartApi\obj\Debug\net8.0\CartApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barsc\Documents\Projects\GamesGlobalTestTask\ShoppingCartTask\CartApi\CartApi\obj\Debug\net8.0\CartApi.AssemblyInfoInputs.cache
+C:\Users\barsc\Documents\Projects\GamesGlobalTestTask\ShoppingCartTask\CartApi\CartApi\obj\Debug\net8.0\CartApi.AssemblyInfo.cs
+C:\Users\barsc\Documents\Projects\GamesGlobalTestTask\ShoppingCartTask\CartApi\CartApi\obj\Debug\net8.0\CartApi.csproj.CoreCompileInputs.cache
+C:\Users\barsc\Documents\Projects\GamesGlobalTestTask\ShoppingCartTask\CartApi\CartApi\obj\Debug\net8.0\CartApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\barsc\Documents\Projects\GamesGlobalTestTask\ShoppingCartTask\CartApi\CartApi\obj\Debug\net8.0\CartApi.MvcApplicationPartsAssemblyInfo.cache
